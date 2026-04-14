@@ -1,4 +1,4 @@
-# kleines Projekt — Customer Churn Analysis
+# kleines Projekt: Customer Churn Analysis
 
 An end-to-end churn analysis project covering data cleaning, exploratory data analysis in SQL, and an interactive dashboard built in Power BI.
 

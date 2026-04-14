@@ -162,5 +162,5 @@ See `Power BI/README.md` for full documentation of visuals, DAX measures, and kn
 
 ## Author
 
-hireme,bitte
-kleines Projekt — a personal end-to-end analytics project covering SQL, Excel, and Power BI.
+hireme,bitte.
+kleines Projekt, a personal end-to-end analytics project covering SQL, Excel, and Power BI.
